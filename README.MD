@@ -12,6 +12,13 @@ pom.xml:
         <url>https://raw.githubusercontent.com/fillzero/apache-xmlrpc/master/maven-repo/repository</url>
     </repository>
 </repositories>
+
+<dependency>
+    <groupId>org.apache.xmlrpc</groupId>
+    <artifactId>xmlrpc-client</artifactId>
+    <version>3.1.3-2</version>
+</dependency>
+
 ```
 
 
